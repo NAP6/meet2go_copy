@@ -2,7 +2,7 @@
 
 Este proyecto busca replicar algunas de las vistas de la empresa Meet2Go
 
-![Home](.reameIMG/home.png)
-![Event](.reameIMG/event.png)
-![Search](.reameIMG/search.png)
-![Login](.reameIMG/login.png)
+![Home](.readmeIMG/home.png?raw=true "Title")
+![Event](.readmeIMG/event.png)
+![Search](.readmeIMG/search.png)
+![Login](.readmeIMG/login.png)
